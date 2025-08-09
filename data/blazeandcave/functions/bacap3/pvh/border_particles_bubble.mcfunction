@@ -1,0 +1,1 @@
+particle minecraft:bubble_pop ~ ~8 ~ 0.1 5 0.1 1 100 force

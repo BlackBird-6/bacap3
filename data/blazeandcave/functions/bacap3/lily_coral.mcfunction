@@ -1,0 +1,15 @@
+# checks for whenever youre near a coral block or deco and then damages you
+execute if block ~ ~ ~ #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~1 ~ ~ #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~1 ~ #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~ ~1 #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~-1 ~ ~ #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~-1 ~ #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~ ~-1 #minecraft:coral_blocks run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~ ~ #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~1 ~ ~ #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~1 ~ #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~ ~1 #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~-1 ~ ~ #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~-1 ~ #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true
+execute if block ~ ~ ~-1 #minecraft:coral_plants run effect give @s minecraft:instant_damage 1 2 true

@@ -1,0 +1,46 @@
+# WHAT? copying ktano's code, me??? N E V E R
+execute as @r at @s run loot spawn ~16 500 ~16 loot blazeandcave:bacap3/random/pickup_line
+
+# Your mother tells you a random pick up line
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:1b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Hey, you owe me a drink! Because when I looked at you, I dropped mine."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:2b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] I seem to have lost my phone number. Can I have yours?"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:3b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Was your mother a beaver? 'Cause damn!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:4b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] It’s handy that I have my library card because I’m totally checking you out."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:5b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Did you just fart? Because you blew me away!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:6b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If you were a Transformer, you’d be Optimus Fine."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:7b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Is your name Wi-Fi? Because we have a connection."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:8b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you free tonight? Because I don't have any money."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:9b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] I've always been told to follow my dreams, so I'm gonna follow you home."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:10b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Hey, do you want kids? 'Cause I've got a whole bag of them right here!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:11b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you an alien? Because you're out of this world."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:12b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If you were a burger at McDonald’s, you’d be the McGorgeous."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:13b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you a loan? 'Cause you’ve got my interest!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:14b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you a 45-degree angle? Because you’re a-cutie!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:15b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Do you like Star Wars? Cause Yoda only one for me."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:16b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Your eyes are like IKEA. I’m totally lost in them."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:17b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Charmanders are red, Mudkips are blue, if you were a Pokemon, I’d choose you."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:18b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If you were a phaser on Star Trek, you’d be set to stun!"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:19b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If I could rearrange the alphabet, I’d put I and U together."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:20b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Have you been covered in bees recently? I just assumed, because you look sweeter than honey."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:21b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you from Tennessee? Because you’re the only Ten I See."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:22b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If I had to rate you from 1 to 10, I’d give you a 9, because I’m the 1 you’re missing."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:23b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] If nothing lasts forever, will you be my nothing?"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:24b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] You're super ugly."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:25b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Your Mother."}]
+
+# Reserved for community suggestions
+# Taken from (in order): WeeAngus, IntentionallyUnknown, saladbowls, Cavinator1, Wolfguy2005, CoolgirlOmega1, Jamsamamsas, FixingGlobe, InGloriouS, IntentionallyUnknown again
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:26b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Did I just die, because I think I just met an angel."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:27b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Why are you called an oven when you of in the cold food of out hot eat the food."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:28b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] You look terrible today."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:29b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Roses are red, violets are blue. Can I put my Minecraft bed, next to you?"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:30b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Do you work at disney? Because you are a princess"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:31b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Are you a pen? 'Cause I marked a date with you on my calendar."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:32b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Sup homie, wanna date me…because your soul is flowing out like a ghast fireball"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:33b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] You have a pretty beard, can I vacuum your crumbs?"}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:34b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] HEY ARE YOU A KITTEN? BECAUSE I WANT TO CHOKE YOU TO DEATH."}]
+execute if entity @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg",Count:35b}}] run tellraw @a[distance=..32] [{"text":"["},{"selector":"@e[tag=yourmother,limit=1]"},{"text":"] Call me IntentionallyUnknown, because you leave me speechless."}]
+# I asked warriorstamps too I might add that if its not nsfw
+
+# Kills them
+kill @e[type=item,nbt={Item:{id:"minecraft:witch_spawn_egg"}}]

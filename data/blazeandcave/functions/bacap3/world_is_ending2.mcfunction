@@ -1,0 +1,1 @@
+execute as @a[tag=bacap3_world_is_ending] at @s run playsound minecraft:block.dispenser.dispense player @s ~ ~ ~ 20000 0.65

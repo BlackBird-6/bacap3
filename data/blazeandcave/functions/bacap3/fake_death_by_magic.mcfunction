@@ -1,0 +1,2 @@
+advancement revoke @s only blazeandcave:technical/fake_death_by_magic
+tellraw @s[advancements={blazeandcave:potion/death_by_magic=false}] {"text":"Kill a guardian with it to get the advancement","color":"aqua"}

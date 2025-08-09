@@ -1,0 +1,83 @@
+function blazeandcave:bacap3/one_second_timer
+function blazeandcave:bacap3/five_second_timer
+function blazeandcave:bacap3/initialize_worldspawn
+gamerule commandModificationBlockLimit 2147483647
+scoreboard objectives add bacap3_death deathCount
+scoreboard objectives add bacap3_sound_wave_cool dummy
+scoreboard objectives add bacap3_rest minecraft.custom:minecraft.time_since_rest
+scoreboard objectives add bacap3_boy_tipping dummy
+scoreboard objectives add bacap3_revoke_tally dummy
+scoreboard objectives add motionX dummy
+scoreboard objectives add motionZ dummy
+scoreboard objectives add bacap3_anvil_timer dummy
+scoreboard objectives add bacap3_anvil_count dummy
+scoreboard objectives add bacap3_cheater_timer dummy
+scoreboard objectives add bacap3_world_is_ending_timer dummy
+scoreboard objectives add bacap3_speen dummy
+scoreboard objectives add bacap3_junk dummy
+scoreboard objectives add shock_cool dummy
+scoreboard objectives add bacap3_axolotl_of_them dummy
+scoreboard objectives add bacap3_eternal_screaming dummy
+scoreboard objectives add bacap3_sushi dummy
+scoreboard objectives add bacap3_ink dummy
+scoreboard objectives add bacap3_dispenser dummy
+scoreboard objectives add bacap3_personalized dummy
+scoreboard objectives add bacap3_screen_shake1 dummy
+scoreboard objectives add bacap3_screen_shake2 dummy
+scoreboard objectives add bacap3_brush minecraft.used:minecraft.brush
+scoreboard objectives add bacap3_nuclear_bomb dummy
+scoreboard objectives add bacap3_adventure dummy
+scoreboard objectives add bacap3_ice dummy
+scoreboard objectives add bacap3_packed_ice dummy
+scoreboard objectives add bacap3_blue_ice dummy
+scoreboard objectives add bacap3_dolphin dummy
+scoreboard objectives add bacap3_tree dummy
+scoreboard objectives add bacap3_daytime dummy
+scoreboard objectives add bacap3_lie dummy
+scoreboard objectives add bacap3_creep dummy
+scoreboard objectives add bacap3_regen_off dummy
+scoreboard objectives add bacap3_stare_timer dummy
+scoreboard objectives add bacap3_death_from_all dummy
+scoreboard objectives add bacap3_deathtime dummy
+scoreboard objectives add bacap3_irongear dummy
+scoreboard objectives add bacap3_irontrigger trigger
+scoreboard objectives add bacap3_llama_rain trigger
+scoreboard objectives add bacap3_llama_rain_cool trigger
+scoreboard objectives add bacap3_fox trigger
+scoreboard objectives add bacap3_court_timer dummy
+scoreboard objectives add bacap3_court_type dummy
+scoreboard objectives add bacap3_court_queue dummy
+scoreboard objectives add bacap3_chain dummy
+scoreboard objectives add bacap3_health dummy
+scoreboard objectives add bacap3_ability dummy
+scoreboard objectives add bacap3_barrel_rider dummy
+scoreboard objectives add bacap3_alarm dummy
+scoreboard objectives add bacap3_birthday dummy
+scoreboard objectives add bacap3_birthday_timer dummy
+scoreboard objectives add bacap3_corruption dummy
+scoreboard objectives add bacap3_corruption_timer dummy
+scoreboard objectives add bacap3_rick dummy
+scoreboard objectives add bacap3_rick_timer dummy
+scoreboard objectives add bacap3_nosprint dummy
+scoreboard objectives add bacap3_foodlevel dummy
+scoreboard objectives add bacap3_decaying_beauty dummy
+scoreboard objectives add bacap3_wither_rose dummy
+scoreboard objectives add bacap3_instant_mining dummy
+scoreboard objectives add bacap3_exp dummy
+scoreboard objectives add bacap3_electric dummy
+scoreboard objectives add bacap3_veggies dummy
+scoreboard objectives add bacap3_diet dummy
+scoreboard objectives add bacap3_dialogue dummy
+scoreboard objectives add bacap3_bombsaway dummy
+scoreboard objectives add bacap3_target dummy
+scoreboard objectives add bacap3_coral dummy
+scoreboard objectives add bacap3_zeus dummy
+scoreboard objectives add bacap3_thunder dummy
+scoreboard objectives add bacap3_mimic_count dummy
+scoreboard objectives add bacap3_iceologer dummy
+scoreboard objectives add bacap3_phase dummy
+
+
+team add Enemy
+team modify Enemy color red
+team modify Enemy friendlyFire false

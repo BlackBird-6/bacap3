@@ -1,0 +1,2 @@
+execute as @e[limit=80] run summon piglin ~ ~ ~
+execute as @e[type=piglin,distance=..1] run data merge entity @s {IsImmuneToZombification:1,ArmorItems:[{},{},{id:"minecraft:elytra",Count:1},{}],Tags:["flying_piglin"]}

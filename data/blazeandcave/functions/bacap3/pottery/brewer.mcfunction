@@ -1,0 +1,2 @@
+# This is not a troll in any way.
+give @s splash_potion{display:{Name:'{"text":"Splash Potion of Healing","italic":false,"color":"white"}',Lore:['{"text":"Instant Health II","color":"blue","italic":false}']},HideFlags:255,Enchantments:[{id:"minecraft:protection",lvl:1s}],custom_potion_effects:[{id:"minecraft:instant_damage",amplifier:4b,duration:1}],CustomPotionColor:16262179} 1

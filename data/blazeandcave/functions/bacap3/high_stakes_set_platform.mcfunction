@@ -1,0 +1,2 @@
+execute in minecraft:the_nether run place template blazeandcave:bacap3/the_stakes_are_high 6967 253 67
+execute in minecraft:the_nether run setblock 6969 254 75 minecraft:oak_wall_sign[facing=north,waterlogged=false]{back_text:{color:"black",has_glowing_text:0b,messages:['""','""','""','""']},front_text:{color:"black",has_glowing_text:0b,messages:['"The steaks"','"are high for"','"this advancement!"','""']},is_waxed:0b} destroy

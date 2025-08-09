@@ -1,0 +1,1 @@
+fill ~7 ~7 ~7 ~-7 ~-7 ~-7 obsidian replace stone

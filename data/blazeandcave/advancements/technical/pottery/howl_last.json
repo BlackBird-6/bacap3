@@ -1,0 +1,249 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/angler": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/archer": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/arms_up": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/blade": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/brewer": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/burn": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/danger": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/explorer": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/friend": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/heart": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/heartbreak": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/miner": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/mourner": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/plenty": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/prize": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/sheaf": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/shelter": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/skull": true
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type_specific": {
+                  "type": "player",
+                  "advancements": {
+                    "blazeandcave:technical/pottery/snort": true
+                  }
+                }
+              }
+            }
+          ],
+          "items": [
+            {
+              "items": [
+                "minecraft:howl_pottery_sherd"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "blazeandcave:bacap3/pottery/howl"
+    }
+  }

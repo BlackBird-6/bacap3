@@ -1,0 +1,1 @@
+scoreboard players set @s bacap3_fox 1200

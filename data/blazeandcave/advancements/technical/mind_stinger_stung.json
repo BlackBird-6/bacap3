@@ -1,0 +1,18 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"function": "blazeandcave:bacap3/ability/mind_stinger_sting_reset"
+	},
+	"criteria": {
+        "bee": {
+            "trigger": "minecraft:entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "direct_entity": {
+						"type": "bee"
+					}
+                }
+            }
+        }
+	}
+}

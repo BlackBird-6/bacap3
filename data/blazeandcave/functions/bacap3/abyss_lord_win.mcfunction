@@ -1,0 +1,1 @@
+tp @a[x=10000,y=127,z=-20000,dx=10000,dy=100,dz=10000] @e[tag=worldspawn,limit=1]

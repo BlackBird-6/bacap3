@@ -1,0 +1,1 @@
+execute as @e[tag=pvh_arena_center] at @s run playsound minecraft:music_disc.pigstep master @a ~ ~ ~ 7 1.1

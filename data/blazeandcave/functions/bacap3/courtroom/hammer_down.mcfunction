@@ -1,0 +1,2 @@
+data merge entity @e[tag=hammer_head,limit=1] {start_interpolation:-1,interpolation_duration:6,transformation:{left_rotation:[-0.5f,-0.5f,0.5f,0.5f],translation:[0.25f,0.5f,-0.5f],right_rotation:[0f,0f,0f,1f],scale:[1f,0.5f,0.5f]}}
+data merge entity @e[tag=hammer_stick,limit=1] {start_interpolation:-1,interpolation_duration:6,transformation:{left_rotation:[-0.27059805f,-0.6532815f,0.27059805f,0.6532815f],translation:[0f,0.9375f,0.0444f]}}

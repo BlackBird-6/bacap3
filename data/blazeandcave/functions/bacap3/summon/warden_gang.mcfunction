@@ -1,0 +1,25 @@
+# WELCOME TO WARDEN TOWN
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}
+summon warden ~ ~ ~ {Tags:["warden_town"],Brain: {memories: {"minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}

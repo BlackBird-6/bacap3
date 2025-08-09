@@ -1,0 +1,1 @@
+execute if score pvh bacap3_health matches ..1200 run function blazeandcave:bacap3/pvh/phase2_transition

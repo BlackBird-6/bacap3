@@ -1,0 +1,1 @@
+scoreboard players set rps bacap3_revoke_tally 0

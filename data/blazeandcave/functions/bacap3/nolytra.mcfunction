@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Inventory:[{Slot:102b,id:"minecraft:elytra"}]}] run function blazeandcave:bacap3/nolytra_real

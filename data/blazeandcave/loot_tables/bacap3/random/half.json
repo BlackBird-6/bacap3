@@ -1,0 +1,23 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:ghast_spawn_egg",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "min": 0,
+                  "max": 1
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,2 @@
+execute as @e[type=!player,type=!marker,type=!armor_stand,type=!block_display,type=!item_display,type=!text_display,type=!item_frame,type=!glow_item_frame,sort=nearest,limit=1] at @s run summon creeper ~ ~ ~ {powered:1}
+tp @e[type=!player,type=!marker,type=!armor_stand,type=!block_display,type=!item_display,type=!text_display,type=!item_frame,type=!glow_item_frame,sort=nearest,type=!creeper,limit=1] ~ ~-128 ~

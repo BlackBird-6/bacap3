@@ -1,0 +1,1 @@
+damage @a[tag=torture,limit=1] 1 blazeandcave:torture

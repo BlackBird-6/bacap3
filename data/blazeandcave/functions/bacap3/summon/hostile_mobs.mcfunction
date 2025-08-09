@@ -1,0 +1,34 @@
+summon cave_spider ~ ~ ~
+summon drowned ~ ~ ~
+summon enderman ~ ~ ~ {AngerTime:24000}
+summon piglin ~ ~ ~
+summon spider ~ ~ ~
+summon zombified_piglin ~ ~ ~ {AngerTime:24000}
+summon blaze ~ ~ ~
+summon creeper ~ ~ ~
+summon elder_guardian ~ ~ ~
+summon endermite ~ ~ ~
+summon evoker ~ ~ ~
+summon ghast ~ ~ ~
+summon guardian ~ ~ ~
+summon hoglin ~ ~ ~
+summon husk ~ ~ ~
+summon magma_cube ~ ~ ~
+summon phantom ~ ~ ~
+summon piglin_brute ~ ~ ~
+summon pillager ~ ~ ~
+summon ravager ~ ~ ~
+summon shulker ~ ~ ~
+summon silverfish ~ ~ ~
+summon skeleton ~ ~ ~
+summon slime ~ ~ ~
+summon stray ~ ~ ~
+summon vex ~ ~ ~
+summon vindicator ~ ~ ~
+summon warden ~ ~ ~
+summon witch ~ ~ ~
+summon witch ~ ~ ~
+summon wither_skeleton ~ ~ ~
+summon zoglin ~ ~ ~
+summon zombie ~ ~ ~
+summon zombie_villager ~ ~ ~

@@ -1,0 +1,1 @@
+summon sheep ~ ~ ~ {PersistenceRequired:1b,Color:0b,Tags:["wooly"],CustomName:'{"text":"Wooly The Talking Sheep","color":"#FCB3FF","bold":true}'}

@@ -1,0 +1,1 @@
+execute as @e[tag=pvh,tag=!inactive] if score @s bacap3_health matches ..320 run function blazeandcave:bacap3/pvh/phase4_transition

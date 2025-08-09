@@ -1,0 +1,1 @@
+execute at @e[type=panda,limit=1,sort=arbitrary,nbt={MainGene:"brown",HiddenGene:"brown"}] run summon tnt

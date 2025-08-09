@@ -1,0 +1,1 @@
+summon parrot ~ ~ ~ {PersistenceRequired:1b,Variant:4,Tags:["black_bird"],CustomName:'{"text":"6_Black_Bird_6","color":"dark_gray"}',active_effects:[{id:"minecraft:resistance",amplifier:4b,duration:2000000,show_particles:0b}]}

@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:cookie"
+            ],
+            "nbt": "{Nugget:1b}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "blazeandcave:bacap3/nugget"
+    }
+  }
+  

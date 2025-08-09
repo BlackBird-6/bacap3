@@ -1,0 +1,2 @@
+# AHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+summon ravager ~ ~ ~ {PersistenceRequired:1b,Health:40f,PatrolLeader:0b,Patrolling:0b,CanJoinRaid:0b,Tags:["trex"],CustomName:'{"text":"T-REX","color":"green","bold":true}',Attributes:[{Name:"generic.max_health",Base:40},{Name:"generic.follow_range",Base:128},{Name:"generic.knockback_resistance",Base:1},{Name:"generic.attack_damage",Base:5}]}

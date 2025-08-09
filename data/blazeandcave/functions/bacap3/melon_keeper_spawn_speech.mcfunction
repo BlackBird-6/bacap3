@@ -1,0 +1,2 @@
+playsound minecraft:entity.zombie_villager.hurt master @a ~ ~ ~ 1 0.5
+tellraw @a {"text":"[","extra":[{"color":"red","translate":"Melon Keeper"},{"text":"] "},{"translate":"A HUMAN? I SHALL CUT YOU LIKE I CUT MY MELONS!"}]}

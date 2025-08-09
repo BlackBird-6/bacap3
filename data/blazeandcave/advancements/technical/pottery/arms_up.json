@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "crafting_table": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:arms_up_pottery_sherd"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+  

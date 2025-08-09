@@ -1,0 +1,1 @@
+summon bee ~ ~ ~ {Invulnerable:1b,PersistenceRequired:1b,Tags:["barry"],CustomName:'{"text":"Barry B. Benson","color":"yellow","bold":true}'}

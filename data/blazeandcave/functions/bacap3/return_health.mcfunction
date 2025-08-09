@@ -1,0 +1,1 @@
+execute as @a at @s run attribute @s generic.max_health base set 20

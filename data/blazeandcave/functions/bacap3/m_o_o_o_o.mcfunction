@@ -1,0 +1,165 @@
+# M     O      O    !   !    !
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0
+playsound minecraft:entity.cow.hurt player @s ~ ~ ~ 20000 0

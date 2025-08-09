@@ -1,0 +1,1 @@
+execute if score @s[tag=slam,nbt={OnGround:1b}] bacap3_ability matches ..195 run function blazeandcave:bacap3/pvh/wither_slam

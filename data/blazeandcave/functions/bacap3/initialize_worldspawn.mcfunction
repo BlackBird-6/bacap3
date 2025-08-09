@@ -1,0 +1,2 @@
+execute unless entity @e[tag=worldspawn,type=armor_stand] run execute in minecraft:the_end run forceload add 27069420 -27042069
+execute unless entity @e[tag=worldspawn,type=armor_stand] run schedule function blazeandcave:bacap3/initialize_worldspawn2 5s 

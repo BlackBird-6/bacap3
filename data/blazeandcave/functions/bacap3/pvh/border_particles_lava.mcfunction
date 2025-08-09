@@ -1,0 +1,1 @@
+particle minecraft:lava ~ ~8 ~ 0.1 5 0.1 1 10 force

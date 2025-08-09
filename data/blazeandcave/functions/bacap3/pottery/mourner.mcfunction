@@ -1,0 +1,2 @@
+# You know what else can be silent and deadly? Saladbowls when he codes the consequence wrong- I mean A Fart.
+execute at @s positioned ^ ^1 ^-2 run summon warden ~ ~ ~ {Silent:1,Brain: {memories: {"minecraft:is_emerging": {value: {}, ttl: 81L}, "minecraft:dig_cooldown": {value: {}, ttl: 1147L} }}}

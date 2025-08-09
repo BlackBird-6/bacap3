@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:angler_pottery_sherd"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# ITS THE SUPER MOOSHROOM LETS GO
+summon mooshroom ~ ~ ~ {Type:"brown",Glowing:1,PersistenceRequired:1b,Health:100f,Tags:["super_mooshroom"],CustomName:'{"text":"Super Mooshroom","color":"red","bold":true}',Attributes:[{Name:"minecraft:generic.max_health",Base:100},{Name:"minecraft:generic.movement_speed",Base:0.43},{Name:"minecraft:generic.knockback_resistance",Base:0.7}]}

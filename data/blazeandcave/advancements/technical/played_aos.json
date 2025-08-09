@@ -1,0 +1,20 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:location",
+        "conditions": {
+          "player": {
+            "equipment": {
+              "mainhand": {
+                "nbt": "{display:{Name:'\"49208345\"'}}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "blazeandcave:bacap3/played_aos"
+    }
+  }
+  

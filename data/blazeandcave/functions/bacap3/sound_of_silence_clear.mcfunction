@@ -1,0 +1,1 @@
+tag @a remove sound_of_silence
